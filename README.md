@@ -21,8 +21,6 @@ This project analyzes customer data related to bike purchases — using Excel to
 5. Engineers and Managers are the top buyers.
 6. Higher income → more purchases.
 
-## 🖼️ Sample Visualization
-![Gender Chart](visuals/gender_distribution_chart.png)
 ## 📁 Folder Structure
 Explain where each file is, like:
 - `/data`: Raw and cleaned data
